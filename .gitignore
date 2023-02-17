@@ -1,0 +1,9 @@
+Data/
+Data_test/
+output15022023/
+test_model/
+test5/
+*.pyc
+*.pt
+*.jpg
+*.log
